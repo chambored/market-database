@@ -38,7 +38,7 @@ Navigate back to the terminal and move to the project directory. Compile the Jav
   
 ```java Main```
 
-Or run it in for favorite IDE.
+Or run it in your favorite IDE.
 
 ## Usage
 
